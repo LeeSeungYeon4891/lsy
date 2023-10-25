@@ -1,0 +1,2 @@
+C:\lsy\c++\cir\x64\Debug\cir.exe
+C:\lsy\c++\작업\과제\cir\x64\Debug\cir.exe
